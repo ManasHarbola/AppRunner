@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1479742121 source:d:\manu-works\c-projects\apprunner\age.cpp
+	<iostream>
+	<math.h>
+	"mainb.h"
+
+1429927391 d:\manu-works\c-projects\apprunner\mainb.h
+
+1430620122 source:d:\manu-works\c-projects\apprunner\calc.cpp
+	<iostream>
+	<math.h>
+	"mainb.h"
+
+1431890767 source:d:\manu-works\c-projects\apprunner\graphingfunctionssolver.cpp
+	<iostream>
+	<math.h>
+	"mainb.h"
+
+1430776704 source:d:\manu-works\c-projects\apprunner\headsortails.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"mainb.h"
+
+1479823407 source:d:\manu-works\c-projects\apprunner\main.cpp
+	<iostream>
+	<math.h>
+	"calculator.h"
+	"gfc.h"
+	"mainb.h"
+	"coinflip.h"
+	"Age.h"
+
+1430592161 d:\manu-works\c-projects\apprunner\calculator.h
+
+1429925843 d:\manu-works\c-projects\apprunner\gfc.h
+
+1430776507 d:\manu-works\c-projects\apprunner\coinflip.h
+
+1479823407 d:\manu-works\c-projects\apprunner\age.h
+
+1479823407 source:d:\manu-works\c-projects\apprunner\mainb.cpp
+	<iostream>
+	<math.h>
+	"calculator.h"
+	"gfc.h"
+	"mainb.h"
+	"coinflip.h"
+	"Age.h"
+
+1430620122 source:d:\manu-works\c-projects\apprunner - copy\calc.cpp
+	<iostream>
+	<math.h>
+	"mainb.h"
+
+1429927391 d:\manu-works\c-projects\apprunner - copy\mainb.h
+
+1431890767 source:d:\manu-works\c-projects\apprunner - copy\graphingfunctionssolver.cpp
+	<iostream>
+	<math.h>
+	"mainb.h"
+
+1430776704 source:d:\manu-works\c-projects\apprunner - copy\headsortails.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"mainb.h"
+
+1511736638 source:d:\manu-works\c-projects\apprunner - copy\main.cpp
+	<iostream>
+	<math.h>
+	"calculator.h"
+	"gfc.h"
+	"mainb.h"
+	"coinflip.h"
+
+1430592161 d:\manu-works\c-projects\apprunner - copy\calculator.h
+
+1429925843 d:\manu-works\c-projects\apprunner - copy\gfc.h
+
+1430776507 d:\manu-works\c-projects\apprunner - copy\coinflip.h
+
+1511736662 source:d:\manu-works\c-projects\apprunner - copy\mainb.cpp
+	<iostream>
+	<math.h>
+	"calculator.h"
+	"gfc.h"
+	"mainb.h"
+	"coinflip.h"
+
