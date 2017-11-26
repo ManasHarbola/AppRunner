@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Combines small little C++ programs (Simple Calculator, Linear/Quadratic points calculator, and Heads or Tails coin flipper) into one single program to use for very basic productivity tasks and rng.
+Combines small little C++ programs (Simple Calculator, Linear/Quadratic points calculator, and Heads or Tails coin flipper) into one single program to use for very basic productivity tasks and random number generation.
 
 ## How to Use
 
